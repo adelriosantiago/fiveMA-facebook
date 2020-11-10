@@ -1,7 +1,7 @@
 {
   "name": "fivema-facebook",
   "version": "1.0.0",
-  "description": "fivema-facebook - alpha testing",
+  "description": "PACKAGE ALPHA TESTING - fiveMA is a module based on Passport.JS that helps you add facebook authentication in five minutes or less.",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
